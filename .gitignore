@@ -1,0 +1,195 @@
+# OS-specific files
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Office temp files
+~$*
+*.~lock.*
+~*.tmp
+
+# Windows image file caches
+*.stackdump
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg-info/
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+*.coverage
+.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+pylint.log
+
+# Environments
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Poetry
+poetry.lock
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+.idea/
+*.iml
+*.iws
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/.name
+.idea/vcs.xml
+.idea/httpRequests
+.idea/codeStyles/
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/jarRepositories.xml
+.idea/markdown-navigator.xml
+.idea/sqlDataSources.xml
+.idea/sqlDataSources.local.xml
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/sqlDialects.xml
+.idea/spring.xml
+.idea/sonarIssues.xml
+.idea/codeReviews.xml
+.idea/scopes/
+
+# Rider
+.idea/
+*.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/.name
+.idea/vcs.xml
+.idea/httpRequests
+.idea/codeStyles/
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/jarRepositories.xml
+.idea/markdown-navigator.xml
+.idea/sqlDataSources.xml
+.idea/sqlDataSources.local.xml
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/sqlDialects.xml
+.idea/spring.xml
+.idea/sonarIssues.xml
+.idea/codeReviews.xml
+.idea/scopes/
+.idea/vcs.xml
+
+# Visual Studio Code
+.vscode/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Local stack files
+localstack/
+
+# Anaconda
+.conda/
+
