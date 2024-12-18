@@ -20,7 +20,7 @@ def generate_qr_code(link, output_file):
     img.save(output_file)
 
 if __name__ == "__main__":
-    link = "https://compasso.ninja/pls/interno/whsprogramacertificacao"
-    output_file = "certificaçao.png"
+    link = "https://micheltlutz.me"
+    output_file = "micheltlutz_site.png"
     generate_qr_code(link, output_file)
     print(f"QR Code gerado e salvo como {output_file}")
